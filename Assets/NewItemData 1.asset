@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e05d9f057f0f9134abfee4c2f1da4550, type: 3}
+  m_Name: NewItemData 1
+  m_EditorClassIdentifier: 
+  itemName: uang
+  icon: {fileID: 21300000, guid: 931f2013db3940044b71f4b47f798ca0, type: 3}
+  prefab: {fileID: 4263277876411449973, guid: 268ed92ca1e32db40a3d765ee2cbe607, type: 3}
